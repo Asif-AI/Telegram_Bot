@@ -17,3 +17,13 @@ conda activate ./env
 ```bash
 pip install -r requirements.txt
 ```
+
+## How to setup Telegram
+# 1.  Search for botfather
+# 2.  /newbot
+    -mybot22
+    -mybot22_bot
+    * Click url to access the bot.
+    * Make sure to collect the access token
+    
+
